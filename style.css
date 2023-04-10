@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+header {
+  background: rgb(115, 214, 123);
+  height: 100px;
+  padding: 20px;
+}
+
+nav {
+  background: rgb(82, 151, 82);
+  height: 50px;
+  padding: 20px;
+}
+
+aside {
+  background: rgb(45, 145, 83);
+  height: 400px;
+  padding: 20px;
+  width: 20%;
+  float: left;
+}
+
+main {
+  background: rgb(175, 241, 181);
+  height: 400px;
+  padding: 20px;
+  margin-left: 20%;
+}
+
+footer {
+  background: rgb(28, 48, 28);
+  height: 50px;
+  padding: 20px;
+}
